@@ -6,6 +6,6 @@
 目前没发现什么bug
 
 使用方法：
-复制OC/Clover文件夹里的EFI文件到ESP磁盘目录下并添加UEFI即可
-
+复制OC/Clover文件夹里的EFI文件夹到ESP磁盘目录下并添加UEFI引导即可
+OC准备中
 
