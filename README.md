@@ -1,4 +1,4 @@
-# macOS-HaseeX5-ShinelonL9
+# macOS-HaseeX5-ShinelonL9 已弃坑，macOS不适合我
 神舟战神X5和炫龙阿尔法L9黑苹果EFI文件
 
 这两款同一模具同一零件，换了个贴牌而已
